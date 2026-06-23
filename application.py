@@ -2,7 +2,9 @@ from flask import Flask, render_template, request
 import numpy as np 
 import pandas as pd 
 
+
 from sklearn.preprocessing import StandardScaler
+
 from src.pipeline.predict_pipeline import CustomData
 from src.pipeline.predict_pipeline import PredictPipeline
 
@@ -35,4 +37,5 @@ def predict_datapoint():
 
 
 if __name__=="__main__":
-    app.run(host='0.0.0.0',port=5000)
+    app.run(host="0.0.0.0",port=5000)
+
