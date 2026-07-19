@@ -102,7 +102,7 @@ python application.py
 
 ### Student Performance Prediction
 
-![Flask Application](assets/Flask.jpeg)
+![Flask Application](Flask.jpeg)
 
 The application predicts a student's mathematics score based on demographic and academic input features.
 
@@ -112,7 +112,7 @@ The application predicts a student's mathematics score based on demographic and 
 
 ### GitHub Actions Workflow
 
-![Deployment](assets/Deployment.jpeg)
+![Deployment](Deployment.jpeg)
 
 The project is deployed on AWS with an automated CI/CD pipeline using GitHub Actions.
 
