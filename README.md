@@ -8,7 +8,6 @@ A production-ready Machine Learning project for predicting student mathematics p
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?style=for-the-badge&logo=scikitlearn)
 ![Flask](https://img.shields.io/badge/Flask-Web_App-black?style=for-the-badge&logo=flask)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-CI/CD-blue?style=for-the-badge&logo=githubactions)
 
 </div>
 
